@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{207:function(e,r,o){"use strict";o.r(r);var t=o(0),n=o.n(t),s=o(205),u=o(204);r.default=function(){return n.a.createElement(s.a,null,n.a.createElement(u.a,{title:"About"}),n.a.createElement("h1",null,"About"),n.a.createElement("p",null,"About in progress. About in progress. About in progress. About in progress. About in progress. About in progress. About in progress. About in progress. About in progress. About in progress."," "))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-3a19dd8f28f9b8da6669.js.map
